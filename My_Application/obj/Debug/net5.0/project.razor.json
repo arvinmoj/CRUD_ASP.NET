@@ -15639,8 +15639,8 @@
       "FileKind": "mvc"
     },
     {
-      "FilePath": "/Users/macbook/Documents/GitHub/CRUD_ASP.NET/My_Application/Views/CRUD/index.cshtml",
-      "TargetPath": "Views\\CRUD\\index.cshtml",
+      "FilePath": "/Users/macbook/Documents/GitHub/CRUD_ASP.NET/My_Application/Views/CRUD/Index.cshtml",
+      "TargetPath": "Views\\CRUD\\Index.cshtml",
       "FileKind": "mvc"
     },
     {
