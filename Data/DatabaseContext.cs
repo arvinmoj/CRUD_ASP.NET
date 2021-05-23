@@ -18,6 +18,6 @@ namespace Data
         {
         }
         
-        public DbSet<TestModel> TestModels { get; set; }
+        public DbSet<User> Users { get; set; }
     }
 }
