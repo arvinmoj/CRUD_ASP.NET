@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "vxOl/dKXRN/fhrL2YFqgBopSVWwj2CMnMzqdUT7pOcgnEJFhXFja+wxt9c8YdRlF2QbPmrxZJ/1pMKrxOD4rKQ==",
+  "success": true,
+  "projectFilePath": "/Users/macbook/Documents/GitHub/CRUD_ASP.NET/Validator/Validator.csproj",
+  "expectedPackageFiles": [
+    "/Users/macbook/.nuget/packages/fluentvalidation/9.5.3/fluentvalidation.9.5.3.nupkg.sha512",
+    "/Users/macbook/.nuget/packages/fluentvalidation.aspnetcore/9.5.3/fluentvalidation.aspnetcore.9.5.3.nupkg.sha512",
+    "/Users/macbook/.nuget/packages/fluentvalidation.dependencyinjectionextensions/9.5.3/fluentvalidation.dependencyinjectionextensions.9.5.3.nupkg.sha512",
+    "/Users/macbook/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/2.1.0/microsoft.extensions.dependencyinjection.abstractions.2.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
